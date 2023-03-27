@@ -110,10 +110,24 @@
 	font-size: 20px;
 }
 
-#autres-sites {
+#a-5 {
 	font-family:Trebuchet ms, sans-serif ;
 	color: whitesmoke;
 	font-size: 50px;
 	text-decoration: none;
+	list-style-type: none;
 }
+
+
+#a-5:link {
+	text-decoration:none;
+ 	color: white;
+}
+
+#clique{
+	font-family:Trebuchet ms, sans-serif ;
+	color: whitesmoke;
+}
+
+
 
